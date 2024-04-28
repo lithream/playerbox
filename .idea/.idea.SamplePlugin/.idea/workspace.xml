@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92e2990c-31b1-469f-a80e-79ab6548dd60" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/SamplePlugin.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplePlugin/Configuration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox/Configuration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplePlugin/Dalamud.Plugin.Bootstrap.targets" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox/Dalamud.Plugin.Bootstrap.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplePlugin/Plugin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox/Plugin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplePlugin/SamplePlugin.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox/PlayerBox.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplePlugin/SamplePlugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox/PlayerBox.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplePlugin/Windows/ConfigWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox/Windows/ConfigWindow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplePlugin/Windows/MainWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox/Windows/MainWindow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SamplePlugin/packages.lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerBox/packages.lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d253c1b6bb0949edb4bf5ac5a07a4ddd226010/c6/361f8299/PartyList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerBox/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerBox/Plugin.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2fj0ud2OYFR1ExXLSEMFwaGWo40" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\signal\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\signal\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\signal\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92e2990c-31b1-469f-a80e-79ab6548dd60" name="Changes" comment="" />
+      <created>1714299405579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714299405579</updated>
+      <workItem from="1714299406279" duration="2159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
