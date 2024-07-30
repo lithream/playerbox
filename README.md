@@ -2,9 +2,6 @@
 
 Baby's first plugin that draws squares and lines under player hitboxes that scale with distance from the user.
 
-[![Use This Template badge](https://img.shields.io/badge/Use%20This%20Template-0?logo=github&labelColor=grey)][new-repo]
-
-
 ### Prerequisites
 
 PlayerBox assumes all the following prerequisites are met:
